@@ -1,6 +1,6 @@
 # address-swapper
 
-> Malware to swap cryptocurrency addresses in the clipboard.
+> Malware to swap cryptocurrency addresses in the clipboard. (PoC)
 
 This malware uses [cryptocurrency-address-detector](https://www.npmjs.com/package/cryptocurrency-address-detector) package for cryptocurrency address detection.<br>
 
